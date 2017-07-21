@@ -10,3 +10,5 @@ Até agora existem os seguintes scripts:
 -urlextract - para a extração de qualquer tipo de URL de uma string.
 
 -domainlinkscrape - para a extração de links de uma página, extração dos domínios destes links e criação de um dicionário que conta quantas vezes cada um apareceu.
+
+-scrapeID - para minerar multiplas IDs de facebook utilizando o site "findmyfbid.com" com um arquivo csv com os links de facebook.
