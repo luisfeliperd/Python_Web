@@ -1,6 +1,6 @@
 
 ###Script para extrair dados de XML (Parse).###
-#Feito por LuisMDlab e Eduardo# - 23/03/2018
+#Feito por LuisMDlab e eduardo2s# - 23/03/2018
 
 from urllib.request import urlopen #Importa Urlopen para abrir o link do XML.
 from xml.dom.minidom import parse #Importa o parser do XML.
